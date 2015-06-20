@@ -2,11 +2,11 @@
 <metadata>
   <groupId>com.rad</groupId>
   <artifactId>rosjava_wrapper</artifactId>
-  <version>0.1</version>
+  <version>0.1-alpha</version>
   <versioning>
     <versions>
-      <version>0.1</version>
+      <version>0.1-alpha</version>
     </versions>
-    <lastUpdated>20150619174259</lastUpdated>
+    <lastUpdated>20150620084015</lastUpdated>
   </versioning>
 </metadata>
