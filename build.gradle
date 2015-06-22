@@ -39,7 +39,7 @@ publishing {
 publishing {
     repositories {
         maven {
-            url 'https://raw.githubusercontent.com/ipab-rad/rosjava_wrapper/master'
+            url 'https://raw.githubusercontent.com/ipab-rad/rosjava_wrapper/master/releases'
         }
     }
 }
